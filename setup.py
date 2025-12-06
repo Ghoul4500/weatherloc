@@ -22,7 +22,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=long_description,
     packages=find_packages(),
-    install_requires=["requests==2.28.2", "charset-normalizer", "urllib3", "idna", "certifi"],
+    install_requires=["requests==2.32.4", "charset-normalizer", "urllib3", "idna", "certifi"],
     keywords=['weatherloc', 'python', 'weather', 'geolocation', 'meteorology', 'api', 'weatherapi', 'pyweather', 'python-weather', 'science', 'pyweather', 'ip', 'ip-finder', 'location'],
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
