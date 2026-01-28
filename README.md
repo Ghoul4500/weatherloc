@@ -1,6 +1,11 @@
 # WeatherLoc
 
-Deprecation Notice: As of Jul 23, 2022, WeatherAPI.com has it's own officially maintained Python SDK at https://github.com/weatherapicom/python
+> ⚠️ **DEPRECATED**
+>
+> As of **July 23, 2022**, this project has been deprecated.
+>
+> WeatherAPI.com now provides an **officially maintained Python SDK**, which should be used instead:
+> 👉 https://github.com/weatherapicom/python
 
 
 ## What is WeatherLoc
