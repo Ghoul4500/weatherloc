@@ -1,5 +1,7 @@
 # WeatherLoc
 
+Deprecation Notice: As of Jul 23, 2022, WeatherAPI.com has it's own officially maintained Python SDK at https://github.com/weatherapicom/python
+
 
 ## What is WeatherLoc
 WeatherLoc is a Pythonic API for weather and geolocation, powered by [WeatherAPI](https://www.weatherapi.com/)
